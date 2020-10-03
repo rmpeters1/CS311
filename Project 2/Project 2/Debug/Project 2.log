@@ -1,0 +1,74 @@
+﻿  msarray_test.cpp
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(90,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(107): message : see reference to class template instantiation 'TypeCheck<T>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(669): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(177): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(647): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(102,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(192,23): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(314,18): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(315,4): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(347,19): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(348,4): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(360,19): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(361,4): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(381,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(385,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(394,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(398,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(415,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(423,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(430,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(432,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(435,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(437,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(444,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(446,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(449,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(451,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(457,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(459,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(462,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(463,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(470,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(472,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(475,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(477,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(483,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(485,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(488,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(490,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(496,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(498,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(501,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(503,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(509,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(511,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(514,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(516,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(522,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(528,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(534,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(540,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(546,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(552,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(569,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(570,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(571,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(572,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(573,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(574,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(588,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(598,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(608,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(618,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(628,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(638,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray.h(126,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray.h(124): message : while compiling class template member function 'bool operator ==(const MSArray<OnlyEq> &,const MSArray<OnlyEq> &)'
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(588): message : see reference to function template instantiation 'bool operator ==(const MSArray<OnlyEq> &,const MSArray<OnlyEq> &)' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(585): message : see reference to class template instantiation 'MSArray<OnlyEq>' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray.h(63,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray.h(59): message : while compiling class template member function 'MSArray<int>::MSArray(MSArray<int>::size_type,int)'
+C:\Users\RBeet\source\repos\CS311\Project 2\Project 2\msarray_test.cpp(730): message : see reference to function template instantiation 'MSArray<int>::MSArray(MSArray<int>::size_type,int)' being compiled
+  Project 2.vcxproj -> C:\Users\RBeet\source\repos\CS311\Project 2\Debug\Project 2.exe

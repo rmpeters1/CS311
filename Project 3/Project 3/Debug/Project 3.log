@@ -1,0 +1,28 @@
+﻿  dp3.cpp
+  dp3_test.cpp
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(94,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(111): message : see reference to class template instantiation 'TypeCheck<T>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(669): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(177): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(647): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(106,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(174,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(195,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(216,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(223,5): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(249,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(278,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(335,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(442,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(471,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3.h(36,31): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(174): message : see reference to function template instantiation 'ValueType lookup<int>(const LLNode<int> *,size_t)' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(174): message :         with
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(174): message :         [
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(174): message :             ValueType=int
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3_test.cpp(174): message :         ]
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3.h(53): warning C4715: 'lookup<int>': not all control paths return a value
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3.h(53): warning C4715: 'lookup<double>': not all control paths return a value
+C:\Users\RBeet\source\repos\CS311\Project 3\Project 3\dp3.cpp(60): warning C4715: 'gcd': not all control paths return a value
+  Project 3.vcxproj -> C:\Users\RBeet\source\repos\CS311\Project 3\Debug\Project 3.exe
