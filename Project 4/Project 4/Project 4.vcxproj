@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Desktop\doctest.h" />
     <ClInclude Include="counthsw.h" />
     <ClInclude Include="doctest.h" />
   </ItemGroup>

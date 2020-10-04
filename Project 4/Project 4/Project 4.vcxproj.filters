@@ -21,6 +21,9 @@
     <ClInclude Include="doctest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\doctest.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="coursehsw.cpp">
