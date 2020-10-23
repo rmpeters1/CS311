@@ -129,7 +129,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="counthsw_test.cpp" />
-    <ClCompile Include="coursehsw.cpp" />
+    <ClCompile Include="counthsw.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

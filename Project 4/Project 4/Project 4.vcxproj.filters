@@ -26,10 +26,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="coursehsw.cpp">
+    <ClCompile Include="counthsw_test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="counthsw_test.cpp">
+    <ClCompile Include="counthsw.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
