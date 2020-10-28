@@ -1,1 +1,46 @@
-﻿
+﻿  tfsarray_test.cpp
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(97,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(114): message : see reference to class template instantiation 'TypeCheck<T>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(669): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(177): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(647): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(109,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(199,23): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(321,18): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(322,4): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(339,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(346,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(356,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(363,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(373,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(380,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(390,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(397,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(412,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(420,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(432,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(441,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(451,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(458,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(468,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(475,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(485,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(492,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(499,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(506,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(516,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(523,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(530,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(537,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(547,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(554,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(561,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(568,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(578,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(585,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(595,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(602,6): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(2127,27): warning C4101: 'e': unreferenced local variable
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(2163,27): warning C4101: 'e': unreferenced local variable
+C:\Users\RBeet\source\repos\CS311\Project 5\Project 5\tfsarray_test.cpp(2279,28): warning C4101: 'e': unreferenced local variable
+  Project 5.vcxproj -> C:\Users\RBeet\source\repos\CS311\Project 5\Debug\Project 5.exe
