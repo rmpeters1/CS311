@@ -1,0 +1,12 @@
+﻿  treesort_test.cpp
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(104,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(121): message : see reference to class template instantiation 'TypeCheck<T>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(669): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(177): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\chrono(647): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(116,22): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(206,30): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(235,30): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(351,18): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+C:\Users\RBeet\source\repos\CS311\Project 7\Project 7\treesort_test.cpp(352,4): warning C5051: attribute 'maybe_unused' requires at least '/std:c++17'; ignored
+  Project 7.vcxproj -> C:\Users\RBeet\source\repos\CS311\Project 7\Debug\Project 7.exe
